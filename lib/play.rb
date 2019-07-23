@@ -40,4 +40,5 @@ def play(board)
   while (turn_count <= 9) do
     turn(board)
     turn_count += 1
+  end
 end
